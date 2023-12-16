@@ -1,4 +1,4 @@
-# Internet Service Providers Hijacking
+# ISP劫持
 host-suffix,17gouwuba.com,REJECT
 host-suffix,186078.com,REJECT
 host-suffix,189zj.cn,REJECT
